@@ -3,10 +3,10 @@
 
 
 ### Skills:
-1 - JS
-2 - CSS 
-3 - HTML
-4 - React
+1 - JS<br>
+2 - CSS<br>
+3 - HTML<br>
+4 - React<br>
 5 - Nextjs
 
 
