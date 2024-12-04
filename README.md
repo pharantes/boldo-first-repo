@@ -1,8 +1,7 @@
 # Pedro Arantes
 ## web developer
 
-
-
+![](./slackphoto.png)
 
 ### Skills:
 1. JS<br>
