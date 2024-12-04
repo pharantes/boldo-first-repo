@@ -1,6 +1,6 @@
 # Pedro Arantes
 ## web developer
-![]({./icons/css.svg} =40x40)![]({./icons/html.svg} =40x40)![]({./icons/js.svg} =40x40)
+![](./icons/css.svg  width="50" height="50")![](./icons/html.svg  width="50" height="50")![](./icons/js.svg  width="50" height="50")
 
 ![](./slackphoto.png)
 
