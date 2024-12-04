@@ -1,8 +1,8 @@
 # Pedro Arantes
 ## web developer
-<img src="./icons/html.svg " alt="html" width="40"/>
-<img src="./icons/css.svg " alt="css" width="40"/>
-<img src="./icons/js.svg " alt="js" width="40"/>
+<img src="./icons/html.svg " alt="html" height="40" width="40"/><img src="./icons/css.svg " alt="css" height="40" width="40"/><img src="./icons/js.svg " alt="js" height="40" width="40"/>
+
+
 
 
 ![](./slackphoto.png)
