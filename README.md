@@ -4,6 +4,8 @@
 
 <img src="slackphoto.png" width="60" height="60">
 
+#### Hey. i'm Pedro, i like to code and im studying to become a developer.
+
 ### Skills:
 1. JS<br>
 2. CSS<br>
