@@ -2,7 +2,7 @@
 ## web developer
 ![](./icons/css.svg) ![](./icons/html.svg) ![](./icons/js.svg)
 
-![](./slackphoto.png)
+<img src="slackphoto.png" width="60" height="60">
 
 ### Skills:
 1. JS<br>
