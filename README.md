@@ -1,6 +1,6 @@
 # Pedro Arantes
 ## web developer
-![](./icons/css.svg)![](./icons/html.svg)![](./icons/js.svg)
+![](./icons/css.svg =40x40)![](./icons/html.svg =40x40)![](./icons/js.svg =40x40)
 
 ![](./slackphoto.png)
 
@@ -9,7 +9,7 @@
 2. CSS<br>
 3. HTML<br>
 4. React<br>
-5. Nextjs
+5. Nextj
 
 ### Project:
 - Spiced Academy
